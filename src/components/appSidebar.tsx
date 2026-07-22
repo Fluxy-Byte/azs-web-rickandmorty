@@ -4,8 +4,6 @@ import { House, Clapperboard, Star, CircleCheckBig, Lightbulb } from "lucide-rea
 import Logo from "../assets/Logo.png";
 import Rick from "../assets/Rick.png";
 
-import ToggleTheme from "@/components/toggleTheme";
-
 import {
     Sidebar,
     SidebarContent,
