@@ -8,7 +8,7 @@ export default function Layout() {
         <SidebarProvider>
             <AppSidebar />
             <SidebarInset>
-                <SidebarTrigger className="m-2 md:hidden" />
+                <SidebarTrigger className="m-2 md:hidden bg-chart-2 text-black shadow-sm hover:bg-chart-2/80" />
                 <Outlet />
             </SidebarInset>
         </SidebarProvider>
